@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "title1": "Welcome to Phoenix Fibercraft!",
+          "text1": "SERVER STATS\n\nBTW\n\nBTWRates\n\nBTWHarvest - 100x\n\nBTWBreeding 100x\n\nBTW\n\nBTWStacks\n\nBTW1,000-10,000k\n\nBTW\n\nBTWPlayer stats\n\nBTWHp - 50\n\nBTWStam - 50\n\nBTWWater - 200\n\nBTWFood - 200\n\nBTWOxy - 200\n\nBTWWeight - 1,000,000\n\nBTWFort - 20\n\nBTWCrafting - 500\n\nBTW\n\nBTWDino stats\n\nBTWMax Lvl - 150\n\nBTW\n\nBTWDrops\n\nBTWWhite - Taming\n\nBTWWhite Ring - Taming / Flak bps\n\nBTWGreen - Kib/Skins/Soups\n\nBTWGreen Ring - Boss/Kib/Soups\n\nBTWBlue - Saddle Bps\n\nBTWBlue Ring - Saddle Bps\n\nBTWPurple - Structures\n\nBTWPurple Ring - Structures\n\nBTWYellow - Weapons / Ammo\n\nBTWYellow Ring - Weapon Bps / Ammo\n\nBTWRed - Ammo BP / Weapon BP / Saddle bp\n\nBTWRed - Adv / Ele / Armor / ETC\n\nBTWRed Ring - Ele / Armor / ETC\n\nBTW\n\nBTWTek unlocks at LVL 100\n\nBTW\n\nBTWPoints shop\n\nBTW15 points every 15 mins",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord Link",
+          "url": "https://discord.gg/NTcj5bGSNq"
+        }
+      }
+    ]
+  }
+}
